@@ -1,0 +1,6 @@
+{
+  "name": "孕产内科诊疗助手",
+  "description": "妇女妊娠期内科疾病诊疗规范、2026最新临床指南共识、医学计算器及AI临床顾问系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
